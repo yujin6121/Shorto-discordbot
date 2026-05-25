@@ -1,4 +1,4 @@
-# 🤖 URL Shortener Discord Bot
+# Shorto-discordbot Discord Bot
 
 A Discord bot written in Go that integrates with the Shorto URL shortener API. It supports slash commands for shortening URLs, checking domains, and viewing statistics.
 
