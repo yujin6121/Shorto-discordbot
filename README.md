@@ -26,17 +26,12 @@ A Discord bot written in Go that integrates with the Shorto URL shortener API. I
 
 ### Installation
 
-1. Navigate to the bot directory:
-   ```bash
-   cd discord-bot
-   ```
-
-2. Install dependencies:
+1. Install dependencies:
    ```bash
    go mod tidy
    ```
 
-3. Configure environment variables:
+2. Configure environment variables:
    ```bash
    cp .env.example .env
    ```
